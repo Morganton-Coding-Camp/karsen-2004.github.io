@@ -78,5 +78,7 @@ iframe {
 .banner {
   min-height:25vh;
   padding:5rem 1rem;
+  background-image:url('../background better.webp');
+  background-position: center;
 }
 
