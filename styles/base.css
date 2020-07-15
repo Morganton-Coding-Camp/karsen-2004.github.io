@@ -82,3 +82,16 @@ iframe {
   background-position: center;
 }
 
+.banner-text {
+  display: inline-block;
+  margin: auto;
+  padding: 3rem; 
+  width: auto;
+  text-align: center;
+  background: #8a2be2;
+  color: white;
+  border: 10px solid #d19fe8;
+  font size: 3.5rem;
+}
+  
+  
