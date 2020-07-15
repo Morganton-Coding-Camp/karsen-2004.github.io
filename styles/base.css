@@ -75,3 +75,8 @@ iframe {
     width: auto;
     border-radius: 50%;
 }
+.banner {
+  min-height:25vh;
+  padding:5rem 1rem;
+}
+
