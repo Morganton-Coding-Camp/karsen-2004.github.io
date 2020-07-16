@@ -94,4 +94,28 @@ iframe {
   font-size: 3.5rem;
 }
   
+.footer {
+  text-align:center;
+  padding: 2rem;
+  font size:1.5rem;
+}
+
+.btn-1{
+  background:#ff2052;
+  color:#89cff0;
+  padding:1rem;
+  text-transform:uppercase;
+  letter-spacing:2px;
+  border-radius:.25rem;
+  font-size:.8rem;
+  border:1px solid white;
+  transition:border .35s;
+}
+
+.btn-1:hover {
+  border:15px solid black;
+}
+    
+    
   
+    
