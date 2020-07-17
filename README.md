@@ -2,4 +2,4 @@
 Starter code for website where I'm going to talk about my favorite things
 
 # Link
- https://morganton-coding-camp.github.io/karsen-2004.github.io/.
+https://rb.gy/zjta4o 
